@@ -1,7 +1,7 @@
-package edu.uba.filters.Apriori;
+package edu.apriori;
 
 import java.util.*;
-import edu.uba.filters.Apriori.ItemSet;
+import edu.apriori.ItemSet;
 
 /**
  * Created by jamaaltaylor on 4/30/16.

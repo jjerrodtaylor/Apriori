@@ -1,4 +1,4 @@
-package edu.uba.filters.Apriori;
+package edu.apriori;
 
 import java.util.HashSet;
 import java.util.Iterator;
